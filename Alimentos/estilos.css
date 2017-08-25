@@ -1,0 +1,169 @@
+body{
+	background-color: #F2F2F2; 
+}
+#nav{
+	margin-top: -5px;
+}
+.navbar-default{
+	background:-webkit-linear-gradient(top, #F4F4F4 , #EBDEEE);
+	border-radius: 5px;
+	border-color: #F2F2F2;
+	font-size: 12px;
+	margin-left: -60px;
+	margin-top: -90px;
+	width: 800px;
+	box-shadow: #C6C6C6 5px 5px 10px;
+	
+}
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    height: 70px;
+    width: 85px;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #FFFFFF;
+    font-weight: bold;
+    background-color: #B00F1E;
+}
+#navli{
+	font-size: 15px;
+	padding-top: 5px;
+	color:red;
+	text-align: center;
+}
+#navgly{
+	color: red;
+	font-size: 30px;
+}
+#footerf{
+	background-color:  #B00F1E;
+	margin-bottom: -1px;
+	margin-top: 50px; 
+}
+
+
+#h2footer{
+	width: 100px;
+	display: inline;
+	color: white;
+}
+
+#pfooter{
+	color: white;
+	text-align: justify;
+	text-transform: capitalize;
+}
+
+#lifooter{
+	color: white;
+}
+
+#divfooter{
+	
+	padding-left: 100px;
+}
+
+#divfooter2{
+	padding-left: 40px;
+}
+
+#panelfooter{
+	
+	background-color: #9F0D1A;
+	height: 100px;
+	padding-top: 10px;
+}
+
+#pfooterf{
+	display: inline;
+	color: white;
+
+
+}
+
+#spanfooter{
+	margin-left: 750px;
+	font-size: 45px;
+	color: white;
+
+	
+}
+
+/* CUERPO HOME*/
+#glycuerpo{
+	color: #CC1414;
+	margin-left: 20px;
+	margin-top: 40px;
+	width: 268px; 
+}
+
+#pcuerpo{
+	color: #5F5F5F;
+	text-align: justify;
+	text-transform: capitalize;
+}
+#h4cuerpo{
+	  color: #CC1414;
+
+}
+
+#botoncuerpo{
+	background-color: #929292;
+	height: 70px;
+	margin-bottom: 50px;
+	margin-left:  49px;
+	margin-top: -30px;
+	padding-top: 20px;
+	width: 250px;
+}
+
+/* CUERPO NOSOTROS */
+
+#h3cuerpo{
+	text-transform: capitalize;
+	text-align: justify;
+	color: #B00F1E;
+
+}
+
+#pcuerpo{
+	
+	text-transform: capitalize;
+	text-align: justify;
+	margin-top: 5px;
+}
+
+hr{
+	border: 2px solid #B00F1E;
+}
+
+#pcuerpom{
+	display: inline;
+	margin-left:  20px;
+}
+
+#barra_vertical{
+	border-right: 1px solid #B00F1E;
+	border
+
+}
+
+.figure1{
+
+	   -webkit-transform: scale(1.1);
+     -moz-transform: scale(1.1);
+     -o-transform: scale(1.1);
+	
+}
+
+ .figure1 .img1:hover{
+	-webkit-transform: scale(0.8);
+	 -moz-transform: scale(0.8);
+     -o-transform: scale(0.8);
+     -webkit-transition-duration: 0.5s;
+     -moz-transition-duration: 0.5s;
+     -o-transition-duration: 0.5s;
+
+}
